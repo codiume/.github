@@ -1,4 +1,4 @@
-<p align="center"><a href="https://codiume.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/98262232?s=96&v=4" width="400"></a></p>
+<p align="center"><a href="https://codiume.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/98262232" width="260"></a></p>
 
 ## About Codiume
 
