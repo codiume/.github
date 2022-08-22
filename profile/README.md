@@ -1,5 +1,5 @@
-<p align="center"><a href="https://codiume.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/98262232" width="260"></a></p>
+<p align="center"><a href="https://codiume.com" target="_blank"><img src="/profile/codiume_cover.png" alt="codiume team cover"></a></p>
 
 ## About Codiume
 
-We are Codiume a community of passionate developers and motivated young students. fascinated by all the technological advances the world is nowadays witnessing.
+We create open source, digital products and tools for the developer community
